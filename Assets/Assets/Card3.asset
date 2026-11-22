@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6413581d4cfb62a40a96b2b2a12c487a, type: 3}
   m_Name: Card3
   m_EditorClassIdentifier: 
-  cardName: LauncherExtraBalls
+  cardName: +5 Balls
   description: Launcher fires 5 more balls
   cost: 2
   effect: 2
